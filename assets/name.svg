@@ -1,0 +1,28 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8a2be2"/>
+      <stop offset="100%" stop-color="#ff6a00"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title {
+      font: 700 96px system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
+      fill: none;
+      stroke: url(#g);
+      stroke-width: 3.5;
+      stroke-dasharray: 1600;
+      stroke-dashoffset: 1600;
+      animation: draw 2.4s ease forwards, glow 3s ease-in-out 2.4s infinite alternate;
+    }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes glow { 
+      from { filter: drop-shadow(0 0 0 rgba(255,106,0,.0)); }
+      to   { filter: drop-shadow(0 0 12px rgba(255,106,0,.6)); }
+    }
+    .fill { fill: url(#g); opacity: 0; animation: fillin .6s ease forwards 2.2s; }
+    @keyframes fillin { to { opacity: 1; } }
+  </style>
+  <text x="50%" y="55%" text-anchor="middle" class="title">Jason Ovalle</text>
+  <text x="50%" y="85%" text-anchor="middle" class="fill" font-size="24">Software Developer · Automation & AI</text>
+</svg>

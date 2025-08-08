@@ -1,9 +1,9 @@
 # jayxvalle
 <!-- GitHub Profile README for jayxvalle -->
-<h1 align="center">Hey, I'm Jason Ovalle 👋</h1>
 <p align="center">
-  <em>Computer Science student • Software Developer • Automation & AI tinkerer</em>
+  <img src="assets/name.svg" width="800" alt="Jason Ovalle">
 </p>
+
 
 <p align="center">
   <a href="mailto:jase.2188@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jase.2188%40gmail.com-blue?logo=gmail"></a>
