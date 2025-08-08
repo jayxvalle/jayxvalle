@@ -44,7 +44,7 @@ I like solving problems, making things run faster, and building tools that make 
 **[MetadataProject](https://github.com/jayxvalle/MetadataProject)**  
 Python + Pandas tool for validating and cleaning large metadata sets. Highlights errors, supports English/Spanish, speeds up archival workflows.
 
-**[Web Audio Sampler](https://lib.nmsu.edu/neh-amador-project/index.html)**  
+**[Web Audio Sampler](https://github.com/jayxvalle/SP404)**  
 Interactive browser-based sampler with vinyl-style audio effects, built for digitized archive exploration.
 
 **[RESTful Inventory App](https://github.com/jayxvalle/RESTful)**  
