@@ -14,7 +14,7 @@
 ---
 
 ### About me
-I’m a Computer Science major at NMSU, graduating Dec 2025.  
+I’m a Computer Science graduate from NMSU,  
 I’ve worked on projects that range from **digitizing historical archives** and building automation tools,  
 to **full-stack web apps** and **compiler development**.  
 I like solving problems, making things run faster, and building tools that make life easier.
